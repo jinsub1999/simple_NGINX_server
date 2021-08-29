@@ -1,0 +1,11 @@
+{
+    "[nginx]": {
+        "editor.defaultFormatter": "raynigon.nginx-formatter",
+        "editor.formatOnSave": true
+    },
+    "[markdown]": {
+        "editor.defaultFormatter": "vscode.markdown-language-features",
+        "editor.wordWrap": "on",
+        "editor.quickSuggestions": false
+    }
+}
